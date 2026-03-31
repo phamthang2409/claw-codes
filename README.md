@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <strong>Claw Codes — An AI agent framework focused on execution, orchestration, and real system building</strong>
+  <strong> Better harness tools, focused on execution not merely storing the archive of leaked Claude Code 
+
+</strong>
 </p>
 
 ---
