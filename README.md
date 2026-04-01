@@ -14,7 +14,7 @@
 
 ## ⭐ Support
 
-If you find this project useful, consider giving it a star ⭐
+If you find this project useful, consider giving it a star ⭐ and following me on GitHub.
 
 ---
 
