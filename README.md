@@ -29,12 +29,9 @@ If you find this project useful, consider giving it a star ⭐ and following me 
 
 > [!IMPORTANT]
 > 🚧🦀 **Rust Port in Progress**
->
 > A full Rust rewrite is currently underway on the [`dev/rust`](https://github.com/0xKarl-dev/claw-codes/tree/dev/rust) branch.
 >
-> This effort focuses on building a faster, memory safe, and production ready harness runtime.
->
-> I'm collaborating with a close contributor to accelerate development, and the rust version will be committed within the next 24–48 hours.
+> This effort focuses on building a faster, memory safe, and production ready harness runtime. I'm collaborating with a close contributor to accelerate development, and the rust version will be committed within the next 24–48 hours.
 > Stay tuned this will become the core direction of the project.
 
 
@@ -42,17 +39,13 @@ If you find this project useful, consider giving it a star ⭐ and following me 
 
 ## 🔄 Current Direction
 
-Claw Codes is not a finished product.
-
-It is a **system under active development**, with a focus on:
-
+Claw Codes is not a finished product. It is a **system under active development**, with a focus on:
 - 🦀 Rust-based core engine (in progress)  
 - 🐍 Python orchestration layer  
 - ⚙️ Improved execution pipeline  
 - 🧩 Modular system architecture  
 - 🔍 Continuous reverse engineering and refinement  
 - 🧠 Exploration of agent-based system design  
-
 Each part of the system is being designed with performance, clarity, and scalability in mind.
 
 ---
@@ -60,14 +53,11 @@ Each part of the system is being designed with performance, clarity, and scalabi
 ## 🧠 Vision
 
 The goal of Claw Codes is to evolve into a foundation for:
-
 - intelligent execution systems  
 - autonomous workflows  
 - agent-driven applications  
 - modular AI tooling infrastructure  
-
 Rather than focusing solely on generation, the system prioritizes:
-
 > **Execution, control, and structured automation**
 
 ---
@@ -87,7 +77,6 @@ Rather than focusing solely on generation, the system prioritizes:
 ## 🧩 Architecture Direction
 
 Claw Codes is being designed with:
-
 - Clear separation between components  
 - Defined boundaries between tools and agents  
 - Extensibility at every layer  
@@ -113,13 +102,11 @@ Claw Codes is being designed with:
 ## 🔍 Development Context
 
 This project involves deep exploration into:
-
 - agent execution systems  
 - orchestration patterns  
 - CLI-based AI workflows  
 - tool integration design  
 - system-level architecture  
-
 The implementation is being rebuilt independently with a focus on clean design and long-term scalability.
 
 ---
@@ -140,9 +127,7 @@ This repository started gaining traction shortly after I backed up the code with
 ## 🤝 Contributing
 
 Contributions are welcome.
-
 Ways to contribute:
-
 - Improve system architecture  
 - Add new features  
 - Optimize performance  
@@ -155,11 +140,9 @@ Ways to contribute:
 ## 📦 Status
 
 Claw Codes is currently:
-
 - under active development  
 - not yet stable  
 - continuously evolving  
-
 Expect frequent updates, restructuring, and improvements as the system matures.
 
 ---
@@ -169,7 +152,6 @@ Expect frequent updates, restructuring, and improvements as the system matures.
 Claw Codes is an independent, clean-room implementation and is **not affiliated with, endorsed by, or maintained by any organization or company referenced in this project**.
 
 This repository is intended strictly for:
-
 - Educational purposes  
 - Software architecture exploration  
 - Defensive and research-driven development  
@@ -192,7 +174,6 @@ For questions, discussions, or collaboration:
 👉 Telegram: https://t.me/Carl_Crypt  
 
 Feel free to reach out if you’re interested in:
-
 - the architecture  
 - contributions  
 - ideas and improvements  
