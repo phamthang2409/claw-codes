@@ -22,9 +22,16 @@ If you find this project useful, consider giving it a star ⭐ and following me 
   <strong>Claw Codes is actively being rewritten into a high-performance agent framework</strong>
 </p>
 
-## 🚧 Work in Progress
-
-A Rust version of this project is currently being worked on and will be pushed here soon. Check the `/rust` directory for updates. Stay tuned 🚀
+> [!IMPORTANT]
+> 🚧🦀 **Rust Port in Progress**
+>
+> A full Rust rewrite is currently underway on the [`dev/rust`](https://github.com/0xKarl-dev/claw-codes/tree/dev/rust) branch.
+>
+> This effort focuses on building a faster, memory-safe, and production-ready harness runtime.
+>
+> I'm collaborating with a close contributor to accelerate development, and we expect major progress within the next 24–48 hours.
+>
+> Stay tuned — this will become the core direction of the project.
 
 ---
 
