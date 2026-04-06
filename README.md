@@ -52,9 +52,9 @@ If you find this project useful, consider giving it a star ⭐ and following me 
 
 > [!IMPORTANT]
 > 🚧🦀 **Rust Port in Progress**
-> A full Rust rewrite is currently underway on the [`dev/rust`](https://github.com/0xKarl-dev/claw-codes/tree/dev/rust) branch.
+>  Rust port is now in progress on the [`dev/rust`](https://github.com/0xKarl-dev/claw-codes/tree/dev/rust) branch and is being merged into main as we build it. The Rust implementation aims to deliver a faster, memory-safe harness runtime.  I'm collaborating with a close contributor to accelerate development process.
 >
-> This effort focuses on building a faster, memory safe, and production ready harness runtime. I'm collaborating with a close contributor to accelerate development, and the rust version will be committed within the next 24–48 hours.
+>
 > Stay tuned this will become the core direction of the project.
 
 
