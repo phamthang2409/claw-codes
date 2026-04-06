@@ -51,9 +51,7 @@ If you find this project useful, consider giving it a star ⭐ and following me 
 
 
 
-><a href="https://aidigitalcrew.com/project?repo=0xKarl-dev%2Fclaw-codes">
-  <img src="https://us-central1-ai-digital-crew.cloudfunctions.net/trendBadge?repo=0xKarl-dev%2Fclaw-codes" alt="Trending on AI Digital Crew">
-</a>
+>[![Trending on AI Digital Crew](https://us-central1-ai-digital-crew.cloudfunctions.net/trendBadge?repo=0xKarl-dev%2Fclaw-codes)](https://aidigitalcrew.com/project?repo=0xKarl-dev%2Fclaw-codes)
 
 > [!IMPORTANT]
 > 🚧🦀 **Rust Port in Progress**
