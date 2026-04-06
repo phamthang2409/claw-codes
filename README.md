@@ -28,8 +28,27 @@ If you find this project useful, consider giving it a star ⭐ and following me 
 ---
 
 <p align="center">
-  <strong>Claw Codes is actively being rewritten into a high-performance agent frameworks</strong>
+  <strong>Claw Codes is actively being rewritten into a high-performance agent framework</strong>
 </p>
+## 🏆 Featured
+
+<p align="center">
+  <a href="https://aidigitalcrew.com/project.html?repo=0xKarl-dev%2Fclaw-codes" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Featured%20on-AI%20Digital%20Crew-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  Claw Codes was selected as <strong>Project of the Day</strong> —  
+  recognized for innovation in AI agent tooling.
+</p>
+
+<p align="center">
+  <a href="https://aidigitalcrew.com/project.html?repo=0xKarl-dev%2Fclaw-codes" target="_blank">
+    👉 View Full Feature
+  </a>
+</p>
+
 
 > [!IMPORTANT]
 > 🚧🦀 **Rust Port in Progress**
